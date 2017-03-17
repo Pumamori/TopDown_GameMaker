@@ -42,7 +42,7 @@
             "Key": "23de1c60-001f-452c-9ef7-6d81261effeb",
             "Value": {
                 "id": "9692dbb8-92ab-4556-ada5-a921f62aba4e",
-                "resourcePath": "sprites\\dingleberry\\dingleberry.yy",
+                "resourcePath": "sprites\\spr_dingleberry\\spr_dingleberry.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -100,6 +100,14 @@
                 "id": "4e49f7c5-1ae9-497f-bd07-07dba6a8c7c9",
                 "resourcePath": "views\\6dce6925-32fc-42d9-b25c-bb783c3a250f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7ab4f939-00d8-450d-84a0-29ae8803ae87",
+            "Value": {
+                "id": "f0f051e0-5ea2-4043-b796-88138934d0de",
+                "resourcePath": "objects\\obj_bullet\\obj_bullet.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -196,6 +204,14 @@
                 "id": "48538b78-b824-49c9-a339-19b6acb2da5a",
                 "resourcePath": "views\\ed962984-038c-4b79-9353-00d73b4b0204.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f0804330-6cc1-46dc-b6a2-0e8e26514287",
+            "Value": {
+                "id": "ec4442be-ef94-4ed8-9d19-901dadad94e0",
+                "resourcePath": "sprites\\spr_bullet\\spr_bullet.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

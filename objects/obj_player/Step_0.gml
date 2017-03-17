@@ -20,3 +20,10 @@ if (keyboard_check(vk_up) || keyboard_check(ord("W")))
 {
 	y = clamp((y - ship_vertical_speed) * global.time, 32, room_height - 32);
 }
+
+if (keyboard_check(vk_space) && ship_can_shoot == true)
+{
+	instance_create_layer(x, y, "inst_Bullets", obj_bullet);
+	ship_can_shoot = false;
+	alarm_set(0, ship_cooldown);
+}

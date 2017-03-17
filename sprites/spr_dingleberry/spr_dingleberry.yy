@@ -2,7 +2,7 @@
     "id": "23de1c60-001f-452c-9ef7-6d81261effeb",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "dingleberry",
+    "name": "spr_dingleberry",
     "For3D": false,
     "HTile": false,
     "VTile": false,

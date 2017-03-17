@@ -39,11 +39,27 @@
             }
         },
         {
+            "Key": "23de1c60-001f-452c-9ef7-6d81261effeb",
+            "Value": {
+                "id": "9692dbb8-92ab-4556-ada5-a921f62aba4e",
+                "resourcePath": "sprites\\dingleberry\\dingleberry.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "33569ee3-0302-4da1-8e7b-b0ef7dab30bf",
             "Value": {
                 "id": "e2b5dbd1-a696-4e8c-83d9-cf1b4c0c8e42",
                 "resourcePath": "views\\33569ee3-0302-4da1-8e7b-b0ef7dab30bf.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "39e86a31-ddb1-41c6-884d-efa7a3313199",
+            "Value": {
+                "id": "3b4828f7-d07c-4911-8be1-6b8224eead63",
+                "resourcePath": "objects\\obj_player\\obj_player.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -66,8 +82,16 @@
             "Key": "604252bd-7f33-4242-a940-ef09d7088c80",
             "Value": {
                 "id": "7620f5c4-fc25-4587-b759-f72b02852f4e",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\rm_testing\\rm_testing.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "6a1a9d5c-a06c-4cbf-b764-0c197755c0af",
+            "Value": {
+                "id": "99f9de4f-fbdf-40a1-bf1f-3c5863d2c30c",
+                "resourcePath": "fonts\\fnt_defaultpixel\\fnt_defaultpixel.yy",
+                "resourceType": "GMFont"
             }
         },
         {
@@ -188,6 +212,14 @@
                 "id": "e289f11a-37f5-49b7-ba05-cfd11598d518",
                 "resourcePath": "views\\f425884c-6295-4c38-b6cd-bb04dec0bee4.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ffbec2ca-d6b5-40f1-8f86-339b46277755",
+            "Value": {
+                "id": "7f4a4a8d-3062-489e-9d64-4a8dee0b02f7",
+                "resourcePath": "objects\\init_gamevalues\\init_gamevalues.yy",
+                "resourceType": "GMObject"
             }
         }
     ],

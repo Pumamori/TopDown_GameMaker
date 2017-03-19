@@ -1,0 +1,10 @@
+draw_set_color(c_white);
+draw_set_font(fnt_defaultpixel);
+draw_set_alpha(1);
+draw_text(32, 32, "Horizontal Speed: " + string(obj_player.ship_horizontal_speed));
+draw_text(32, 64, "Vertical Speed: " + string(obj_player.ship_vertical_speed));
+draw_text(32, 256, "Slow Speed: " + string(global.slow_speed));
+draw_text(32, 128, "Bullet Damage: " + string(obj_player.ship_damage));
+draw_text(32, 160, "Cooldown between Shots: " + string(obj_player.ship_cooldown));
+draw_text(32, 192, "Global Time: " + string(global.time)); 
+draw_text(32, 224, "Ressources: " + string(global.money));

@@ -27,3 +27,5 @@ if (keyboard_check(vk_space) && ship_can_shoot == true)
 	ship_can_shoot = false;
 	alarm_set(0, ship_cooldown);
 }
+
+if (mouse_check_button(mb_left)) instance_destroy();

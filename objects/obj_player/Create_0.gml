@@ -1,4 +1,6 @@
 /// @description Initiate
+persistent = true;
+show_debugstats = false;
 
 // Ship Movement
 ship_horizontal_speed = 5;
@@ -6,6 +8,7 @@ ship_vertical_speed = 4;
 
 // Bullets
 ship_can_shoot = true;
+bullet_ignoreslow = false;
 
 // Ship Stats
 ship_hp = 5; // Amount of damage a ship can receive before loosing a life.
